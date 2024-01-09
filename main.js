@@ -82,7 +82,7 @@ function copyColorCode(colorCode) {
       Toastify({
         text: " ✔️ Copied Succesfully !",
         className: "info",
-        duration: 500,
+        duration: 1000,
         close: true,
         style: {
           background: "linear-gradient(to right, white,white)",
